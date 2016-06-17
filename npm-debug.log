@@ -7,15 +7,8 @@
 3 info using node@v4.4.5
 4 info git [ 'status', '--porcelain' ]
 5 verbose stack Error: Git working directory not clean.
-5 verbose stack A  .editorconfig
-5 verbose stack A  .gitignore
-5 verbose stack A  Procfile
-5 verbose stack A  README.md
-5 verbose stack A  bin/hubot
-5 verbose stack A  bin/hubot.cmd
-5 verbose stack A  external-scripts.json
-5 verbose stack AM package.json
-5 verbose stack A  scripts/example.coffee
+5 verbose stack D npm-debug.log
+5 verbose stack M scripts/servicenow.coffee
 5 verbose stack     at /usr/local/lib/node_modules/npm/lib/version.js:171:21
 5 verbose stack     at ChildProcess.exithandler (child_process.js:204:7)
 5 verbose stack     at emitTwo (events.js:87:13)
@@ -31,15 +24,8 @@
 9 error node v4.4.5
 10 error npm  v2.15.5
 11 error Git working directory not clean.
-11 error A  .editorconfig
-11 error A  .gitignore
-11 error A  Procfile
-11 error A  README.md
-11 error A  bin/hubot
-11 error A  bin/hubot.cmd
-11 error A  external-scripts.json
-11 error AM package.json
-11 error A  scripts/example.coffee
+11 error D npm-debug.log
+11 error M scripts/servicenow.coffee
 12 error If you need help, you may report this error at:
 12 error     <https://github.com/npm/npm/issues>
 13 verbose exit [ 1, true ]
