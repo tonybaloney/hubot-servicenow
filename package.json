@@ -1,6 +1,6 @@
 {
   "name": "servicenow-bot",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "author": "Anthony Shaw <anthonyshaw@apache.org>",
   "description": "A simple helpful robot for your Company",
