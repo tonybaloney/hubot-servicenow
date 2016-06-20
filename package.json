@@ -1,6 +1,6 @@
 {
   "name": "hubot-servicenow",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "author": "Anthony Shaw <anthonyshaw@apache.org>",
   "description": "A simple helpful robot for your ServiceNow needs.",
   "dependencies": {
